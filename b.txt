@@ -1,1 +1,1 @@
-This is file "B" and modified
+This is file "B" and modified again
